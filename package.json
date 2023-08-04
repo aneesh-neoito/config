@@ -1,0 +1,54 @@
+{
+  "_from": "@nestjs-nodo/config@3.33.5",
+  "_id": "@nestjs-nodo/config@3.33.5",
+  "_inBundle": false,
+  "_integrity": "sha512-CQ/6gf36XYlJxHHpu6NKZEVOwv5I8LeIEq3evyp62G4LoSbkF0W3uwhhebCO6YFmv1mUAGXWimuL5c4+2gs9xg==",
+  "_location": "/@nestjs-nodo/config",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@nestjs-nodo/config@3.33.5",
+    "name": "@nestjs-nodo/config",
+    "escapedName": "@nestjs-nodo%2fconfig",
+    "scope": "@nestjs-nodo",
+    "rawSpec": "3.33.5",
+    "saveSpec": null,
+    "fetchSpec": "3.33.5"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "http://npm.nodo.cc/@nestjs-nodo%2fconfig/-/config-3.33.5.tgz",
+  "_shasum": "d5b468f222e994c729340a1acb268cf14d8da80d",
+  "_spec": "@nestjs-nodo/config@3.33.5",
+  "_where": "/home/rishabh/test",
+  "author": {
+    "name": "nodo.cc"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "### changelog * 2.1.0 Add optional config into Env Decorator",
+  "engines": {
+    "node": "v10.16.2"
+  },
+  "files": [
+    "lib",
+    "*.md"
+  ],
+  "gitHead": "96620f8538ec47cf68340b00f04880237ae8adfb",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "name": "@nestjs-nodo/config",
+  "peerDependencies": {
+    "@nestjs-nodo/utils": "^2.0.0",
+    "yaml": "^1.7.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "code.nodo.cc:nestjs-nodo/core.git"
+  },
+  "types": "lib/index.d.ts",
+  "version": "3.33.5"
+}
